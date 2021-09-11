@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="themes">
+        <attr name="myWindowBackground" format="color|reference"/>
+        <attr name="myButtonBackground" format="reference"/>
+        <attr name="mySendTextColor" format="reference"/>
+        <attr name="myWrongTextSelectedColor" format="reference"/>
+<!--        <attr name="myTabIndicatorColor" format="reference"/>-->
+        <attr name="myPrimaryTextColor" format="color|reference"/>
+        <attr name="mySecondaryTextColor" format="color|reference"/>
+        <attr name="myCardButtonBackground" format="color|reference"/>
+    </declare-styleable>
+</resources>

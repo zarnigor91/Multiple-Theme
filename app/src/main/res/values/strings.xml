@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTestTheme</string>
+    <string name="currentTheme">CurrentTheme</string>
+</resources>

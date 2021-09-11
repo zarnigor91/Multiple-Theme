@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- black theme -->
+    <color name="blackColorPrimary">#040505</color>
+    <color name="blackColorPrimaryDark">#040505</color>
+    <color name="blackColorAccent">#D81B60</color>
+    <color name="blackPrimaryText">#FFFFFF</color>
+    <color name="blackSecondaryText">#F1EAEA</color>
+    <color name="blackThirdText">#858181</color>
+    <color name="blackBackgroundColor">#1C1717</color>
+    <color name="blackButtonBackgroundColor">#2C2828</color>
+
+    <color name="blackDrawableBackgroundColor">#AC4C0D</color>
+    <color name="blackSendTextColor">#D66012</color>
+    <color name="blackWrongTextSelectedColor">#DA9D36</color>
+
+    <!-- black theme -->
+
+    <!-- default theme -->
+    <color name="colorPrimary">#F3EAEA</color>
+    <color name="colorPrimaryDark">#F3EAEA</color>
+    <color name="colorAccent">#f76d32</color>
+    <color name="primaryText">#000000</color>
+    <color name="secondaryText">#191818</color>
+    <color name="thirdText">#9E9A9A</color>
+    <color name="backgroundColor">#E4DDDD</color>
+    <color name="buttonBackgroundColor">#FFFFFF</color>
+
+    <color name="drawableBackgroundColor">#4CCF3D</color>
+    <color name="sendTextColor">#D66012</color>
+    <color name="WrongTextSelectedColor">#DA9D36</color>
+
+    <!-- default theme -->
+
+    <!-- green theme -->
+    <color name="greenColorPrimary">#8BC34A</color>
+    <color name="greenColorPrimaryDark">#CD61803B</color>
+    <color name="greenColorPrimaryLight">#DCEDC8</color>
+    <color name="greenColorAccent">#4CAF50</color>
+    <color name="greenPrimaryText">#FFFFFF</color>
+    <color name="greenSecondaryText">#ECE9E9</color>
+    <color name="greenThirdText">#ECE9E9</color>
+    <color name="greenBackgroundColor">#CD61803B</color>
+    <color name="greenButtonBackgroundColor">#EB7CA14F</color>
+
+    <color name="greenDrawableBackgroundColor">#F6730D</color>
+    <color name="greenSendTextColor">#D66012</color>
+    <color name="greenWrongTextColor">#DA9D36</color>
+
+    <!-- green theme -->
+
+    <!-- purple theme -->
+
+    <color name="purpleColorPrimary">#673AB7</color>
+    <color name="purpleColorPrimaryDark">#4968B6</color>
+    <color name="purpleColorPrimaryLight">#D1C4E9</color>
+    <color name="purpleColorAccent">#4CAF50</color>
+    <color name="purplePrimaryText">#FFFFFF</color>
+    <color name="purpleSecondaryText">#ECE9E9</color>
+    <color name="purpleGreenThirdText">#ECE9E9</color>
+    <color name="purpleBackgroundColor">#4968B6</color>
+    <color name="purpleButtonBackgroundColor">#617ABA</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="purpleDrawableBackgroundColor">#0975D5</color>
+    <color name="purpleSendTextColor">#D66012</color>
+    <color name="purpleWrongTextColor">#DA9D36</color>
+
+    <!-- purple theme -->
+
+</resources>
